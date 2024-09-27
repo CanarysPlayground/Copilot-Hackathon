@@ -1,8 +1,9 @@
 Below is the restructured content in Markdown format with proper formatting:
 
 # Challenge 1 - The Clockwork Town of Tempora
+![Challenge-1](https://github.com/user-attachments/assets/14c35279-cb6f-4d5b-98e2-eb3d48d3d8be)
 
-![Uploading image.png…]()
+
 
 ## Background
 In the mechanical town of Tempora, everything operates on clockwork and precise timing. At the heart of the town is the Grand Clock Tower, responsible for keeping time for all the town's activities. However, over the years, some smaller clocks in the town have started to drift away from the accurate time.
